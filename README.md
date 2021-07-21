@@ -21,13 +21,13 @@ A full stack, blog-style application that allows developers to write about tech.
 
 # Description
 
-This node application allows users view and make changes to employee data in a SQL database. Users can view and add employees, roles, and departments, and they can update an employee's role, all within the console.
+This application allows users to login, create and view blog entries, and logout.
 
 # Setup/Installation Requirements
 
-Clone this repository to VS code. Open an integrated terminal from the employeeTracker folder, and enter "npm start".
+Clone this repository to VS code. Open an integrated terminal from the techBlog folder, and enter "npm start".
 
-Alternatively, the webpage can be accessed at https://github.com/jmrao002/employeeTracker
+Alternatively, the webpage can be accessed at https://github.com/jmrao002/techBlog
 
 # Known Bugs
 
