@@ -4,6 +4,8 @@ Built by Michael Rao
 
 A full stack, blog-style application that allows developers to write about tech.
 
+![screenshot](https://raw.githubusercontent.com/jmrao002/techBlog/main/assets/images/screenshot.png)
+
 # Technologies Used
 
     - HTML
